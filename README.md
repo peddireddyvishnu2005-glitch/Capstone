@@ -94,8 +94,8 @@ Make sure you have [Node.js](https://nodejs.org) installed on your system.
 ### 📥 Installation & Setup
 1. Clone the repository (or navigate to your local project folder):
    ```bash
-   git clone https://github.com/Bunnyvalluri/Capstone-project.git
-   cd Capstone-project
+   git clone https://github.com/peddireddyvishnu2005-glitch/Capstone.git
+   cd Capstone
    ```
 
 2. Install backend and frontend dependencies:
